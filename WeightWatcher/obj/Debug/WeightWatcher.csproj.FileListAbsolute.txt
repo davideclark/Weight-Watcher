@@ -1,0 +1,10 @@
+C:\Documents and Settings\david\My Documents\Visual Studio 2010\Projects\MvcApplication1\MvcApplication1\bin\MvcApplication1.dll
+C:\Documents and Settings\david\My Documents\Visual Studio 2010\Projects\MvcApplication1\MvcApplication1\bin\MvcApplication1.pdb
+C:\Documents and Settings\david\My Documents\Visual Studio 2010\Projects\MvcApplication1\MvcApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\david\My Documents\Visual Studio 2010\Projects\MvcApplication1\MvcApplication1\obj\Debug\MvcApplication1.dll
+C:\Documents and Settings\david\My Documents\Visual Studio 2010\Projects\MvcApplication1\MvcApplication1\obj\Debug\MvcApplication1.pdb
+C:\Documents and Settings\david\My Documents\Visual Studio 2010\Projects\WeightWatcher\WeightWatcher\bin\MvcApplication1.dll
+C:\Documents and Settings\david\My Documents\Visual Studio 2010\Projects\WeightWatcher\WeightWatcher\bin\MvcApplication1.pdb
+C:\Documents and Settings\david\My Documents\Visual Studio 2010\Projects\WeightWatcher\WeightWatcher\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\david\My Documents\Visual Studio 2010\Projects\WeightWatcher\WeightWatcher\obj\Debug\MvcApplication1.dll
+C:\Documents and Settings\david\My Documents\Visual Studio 2010\Projects\WeightWatcher\WeightWatcher\obj\Debug\MvcApplication1.pdb
